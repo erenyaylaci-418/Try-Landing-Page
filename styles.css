@@ -1,0 +1,29 @@
+#navbar{
+    padding-top: 3rem;
+    padding-right: 5rem;
+}
+.buttonblue{
+    background-color: blue;
+}
+.headmargin{
+    margin-right: 2rem;
+}
+#headphone{
+    position: relative;
+    left: 55rem;
+    top: -1rem;
+}
+#landingbackground{
+    position: absolute;
+    top: 30.5rem;
+    z-index: -1;
+}
+#main_txt{  
+    width: 25rem;
+    position: absolute;
+    top: 15rem;
+    left:13rem
+}
+h1{
+    font-size: 3rem;
+}
